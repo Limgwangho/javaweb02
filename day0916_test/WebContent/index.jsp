@@ -13,6 +13,7 @@
    <div class="container panel panel-info">
       <h3 class="panel-heading">GIT DAY0916</h3>
    <ol>
+      <li>ver2</li>
       <li>회원가입</li>
       <li>저장소</li>
       <li>이클립스연동</li>
